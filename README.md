@@ -18,6 +18,7 @@ in perpetuity.
 This is a simple example showing ...    
 
 ## Getting Started
+Getting started notes go here ... (do this, press that, enable this)
 
 ## Screenshot
 ![image](./docs/images/Screenshot.png)
