@@ -31,8 +31,8 @@ console.log('hello world');
 ```
 
 ## Versions
-* TcXaeShell 3.1.4024.17
-* TE2000 1.12.746.3
+* TcXaeShell 3.1.4024.22
+* TE2000 1.12.750.1
 
 ## Need more help?
 Please visit http://beckhoff.com/ for further guides
