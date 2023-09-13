@@ -1,6 +1,7 @@
-# Simple example of ...
+# Title goes here
 
 ## Disclaimer
+
 This is a personal guide not a peer reviewed journal or a sponsored publication. We make
 no representations as to accuracy, completeness, correctness, suitability, or validity of any
 information and will not be liable for any errors, omissions, or delays in this information or any
@@ -14,25 +15,33 @@ other than the author(s) and, since we are critically thinking human beings, the
 always subject to change, revision, and rethinking at any time. Please do not hold us to them
 in perpetuity.
 
-## Overview 
-This is a simple example showing ...    
+## Overview
 
-## Getting Started
-Getting started notes go here ... (do this, press that, enable this)
+Overview goes here
 
 ## Screenshot
+
 ![image](./docs/images/Screenshot.png)
 
 ## Code Snippets
-The following section of code is ...
+Infomation about the code snippet goes here
 
-```javascript
-console.log('hello world');
+```
+PROGRAM MAIN
+VAR
+	// example
+	foobar : STRING;
+END_VAR
+```
+
+```
+foobar := "HelloWorld";
 ```
 
 ## Versions
-* TcXaeShell 3.1.4024.32
-* TE2000 1.12.750.1
+
+- TcXaeShell 3.1.4024.50
 
 ## Need more help?
+
 Please visit http://beckhoff.com/ for further guides
